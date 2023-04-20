@@ -1,5 +1,5 @@
 # Densest diverse subgraphs: How to Plan a Successful Cocktail Party with Diversity
-### Atsushi Miyauchi, Tianyi Chen, Kostas Sotiropoulos, Charalampos Tsourakakis 
+### Atsushi Miyauchi, Tianyi Chen, Kostas Sotiropoulos, Charalampos E. Tsourakakis 
 
 ## Description
 
