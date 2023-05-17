@@ -1,4 +1,4 @@
-# Densest diverse subgraphs: How to Plan a Successful Cocktail Party with Diversity
+# Densest diverse subgraphs: How to Plan a Successful Cocktail Party with Diversity (KDD 2023)
 ### Atsushi Miyauchi, Tianyi Chen, Kostas Sotiropoulos, Charalampos E. Tsourakakis 
 
 ## Description
