@@ -105,7 +105,7 @@ NodeSet densestAtLeastK(const Graph& G, const int k) {
                 q.push(make_pair(--degrees[neighbor], neighbor));
             }
         }
-        if (numberNodes <= k) {
+        if (currentNodes <= k) {
             break;
         }
     }
